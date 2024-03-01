@@ -8,7 +8,7 @@ The current version is deployed at: [https://safe-dump.netlify.app](https://safe
 
 When building on _Safe_, you often end up creating unwated Accounts. Too many can overload the Safe{Wallet} interface. This App allows you to remove unwanted Accounts by renouncing their ownership.
 
-## Usage
+## Development
 
 This App uses `yarn` as a package manager. To setup and run it locally, use the following commands:
 
