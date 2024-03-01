@@ -1,0 +1,12 @@
+{
+  "short_name": "safe-dump",
+  "name": "Safe Dump",
+  "description": "Don't want your Safe? Dump it!",
+  "icons": [
+    {
+      "src": "/images/app-logo.png",
+      "sizes": "any",
+      "type": "image/png"
+    }
+  ]
+}
